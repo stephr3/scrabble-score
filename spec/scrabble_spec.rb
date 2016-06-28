@@ -14,4 +14,13 @@ describe('scrabble') do
   it("manages mixed case entries") do
     expect("CaT".scrabble()).to(eq(5))
   end
+  it("manages number entries") do
+    expect("cat1".scrabble()).to(eq(5))
+  end
+  it("manages entries with punctuation") do
+    expect("cat!".scrabble()).to(eq(5))
+  end
+  it("manages entries with spaces") do
+    expect("cat ".scrabble()).to(eq(5))
+  end
 end
