@@ -1,6 +1,6 @@
 # _Scrabble_
 
-#### By _Olivia Hinton and Stephanie Gurung_
+#### By _Brett New and Stephanie Gurung_
 
 ## Description
 
@@ -31,4 +31,4 @@ _A Scrabble Game to calculate your score!_
 
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2016 **_Olivia Hinton and Stephanie Gurung_**
+Copyright (c) 2016 **_Brett New and Stephanie Gurung_**
